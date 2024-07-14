@@ -1,0 +1,14 @@
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/bin/Debug/net7.0/RPN
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/bin/Debug/net7.0/RPN.deps.json
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/bin/Debug/net7.0/RPN.runtimeconfig.json
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/bin/Debug/net7.0/RPN.dll
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/bin/Debug/net7.0/RPN.pdb
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/RPN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/RPN.AssemblyInfoInputs.cache
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/RPN.AssemblyInfo.cs
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/RPN.csproj.CoreCompileInputs.cache
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/RPN.dll
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/refint/RPN.dll
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/RPN.pdb
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/RPN.genruntimeconfig.cache
+/Users/chris/Library/CloudStorage/OneDrive-Personal/Documents/Portfolio/Tests/DCSLTest2/RPN/obj/Debug/net7.0/ref/RPN.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B0E77C49-4DD9-4122-AF6B-F8EFB6F913A4}|Test">
+  <MonoDevelop.Ide.ItemProperties.RPN PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/launchSettings.json">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Properties/launchSettings.json" Line="8" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPN" expanded="True">
+            <Node name="RPN">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="RPNCalculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

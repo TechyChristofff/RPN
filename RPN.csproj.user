@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Test' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>1 2209 20 197 200 0.1 00001 bool january 190007672</StartArguments>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+</Project>
